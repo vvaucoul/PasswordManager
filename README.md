@@ -28,7 +28,7 @@ cd password-manager
 ```
 2. Run the application:
 ```bash
-python app.py
+python PasswordManagerApp.py
 ```
 
 3. The application will ask you to set a master password if it's your first time using it. This master password will be used to encrypt and decrypt your stored passwords.
