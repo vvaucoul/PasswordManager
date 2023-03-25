@@ -1,7 +1,7 @@
 # Password Manager
 A simple and secure password manager to store and manage your passwords locally.
 
-##Features
+## Features
 - Securely encrypts and stores your passwords using a master password.
 - Generate strong random passwords.
 - Copy passwords to clipboard for easy use.
